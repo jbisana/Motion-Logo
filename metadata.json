@@ -1,0 +1,6 @@
+{
+  "name": "Animated Logo Creator",
+  "description": "Designs a logo and shows an animated version based on your description.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
